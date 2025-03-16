@@ -1,5 +1,8 @@
 # Job Copilot
 
+![Job Copilot](public/job-copilot.png)
+Link: https://basit-dev-de.github.io/job-copilot/
+
 Job Copilot is a powerful job application automation tool that helps streamline your job search process. Built with React, TypeScript, and Vite, it offers a seamless experience for finding, tracking, and applying to jobs that match your skills and preferences.
 
 ## Features
